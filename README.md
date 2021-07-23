@@ -3,6 +3,18 @@
 * Still learning.
 * ...
 
+# Let's get started
+## WPF Layout
+![image](https://user-images.githubusercontent.com/67073582/126849778-8183616d-e529-4c15-bad1-2f2495e69eef.png)
+
+
+# Platform
+* Windows
+* .NET Core
+* C# WPF 
+
+# Language 
+* C/C++
 
 
 # References
